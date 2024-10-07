@@ -2,6 +2,22 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in software development and a constant learner. Below you'll find more about me, my skills, and the projects I've worked on.
 
+---
+
+## 🌐 Navigation
+- [About Me](#about-me)
+- [Tech Stack](#-tech-stack)
+- [Featured Projects](#-featured-projects)
+- [GitHub Stats](#-github-stats)
+- [Connect with Me](#-connect-with-me)
+
+---
+
+## 🧑‍💻 About Me
+I'm a dedicated software developer with a keen interest in learning and applying new technologies...
+
+---
+
 ## 💻 Tech Stack
 Here's a quick overview of the technologies I've been working with recently:
 
