@@ -35,29 +35,15 @@ Here are the technologies I have been working with:
 
 ## 🛠 Featured Projects
 
-### 1. [Selenium WebDriver Automation](https://github.com/thaithanhnhat/selenium_webDriver)
-This project automates browser actions using Selenium WebDriver.
+| [Project Name 1](https://github.com/thaithanhnhat/selenium_webDriver) | [Project Name 2](https://github.com/thaithanhnhat/Telethon_to_Tdata) |
+| -------------------------------------------- | --------------------------------------------- |
+| ![Project Screenshot](https://via.placeholder.com/400x200.png?text=Project+1) | ![Project Screenshot](https://via.placeholder.com/400x200.png?text=Project+2) |
+| **Tech Stack:** Java, Spring Boot, MySQL, Docker | **Tech Stack:** Python, Flask, MongoDB |
+| A brief description of Project 1. | A brief description of Project 2. |
+| [![View Project](https://img.shields.io/badge/View-Project-007bff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaithanhnhat/selenium_webDriver) | [![View Project](https://img.shields.io/badge/View-Project-007bff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaithanhnhat/Telethon_to_Tdata) |
 
-![Project Screenshot](https://via.placeholder.com/800x400.png?text=Project+Screenshot)
 
-**Tech Stack:** Java, Spring Boot, MySQL, Docker
 
-<a href="https://github.com/thaithanhnhat/selenium_webDriver" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/xem-Click%20Here-brightgreen?style=for-the-badge" alt="xem">
-</a>
-
----
-
-### 2. [Telethon to Tdata](https://github.com/thaithanhnhat/Telethon_to_Tdata)
-A project utilizing Telethon to manage multiple Telegram accounts efficiently.
-
-![Project Screenshot](https://via.placeholder.com/800x400.png?text=Project+Screenshot)
-
-**Tech Stack:** Python, Flask, MongoDB
-
-<a href="https://github.com/thaithanhnhat/Telethon_to_Tdata" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/xem-Click%20Here-brightgreen?style=for-the-badge" alt="xem">
-</a>
 
 ---
 
