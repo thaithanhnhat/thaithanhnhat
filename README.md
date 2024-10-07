@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Thanh Nhật!
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in [Your Field] and a constant learner. Below you'll find more about me, my skills, and the projects I've worked on.
 
