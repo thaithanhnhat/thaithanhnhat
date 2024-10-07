@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in software development and a constant learner. Below you'll find more about me, my skills, and the projects I've worked on.
 
-
 ---
 
 ## 🧑‍💻 About Me
@@ -30,7 +29,6 @@ Here are the technologies I have been working with:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-
 ---
 
 ## 🛠 Featured Projects
@@ -39,7 +37,7 @@ Here are the technologies I have been working with:
 
 <div style="margin-right: 20px;">
     <a href="https://github.com/thaithanhnhat/selenium_webDriver">
-        <img src="https://via.placeholder.com/400x200.png?text=Project+1" alt="Project 1">
+        <img src="https://via.placeholder.com/400x200.png?text=Project+1" alt="Project 1" style="border: none; border-radius: 5px;">
     </a>
     <strong>Tech Stack:</strong> Java, Spring Boot, MySQL, Docker  
     A brief description of Project 1.  
@@ -48,7 +46,7 @@ Here are the technologies I have been working with:
 
 <div>
     <a href="https://github.com/thaithanhnhat/Telethon_to_Tdata">
-        <img src="https://via.placeholder.com/400x200.png?text=Project+2" alt="Project 2">
+        <img src="https://via.placeholder.com/400x200.png?text=Project+2" alt="Project 2" style="border: none; border-radius: 5px;">
     </a>
     <strong>Tech Stack:</strong> Python, Flask, MongoDB  
     A brief description of Project 2.  
@@ -56,8 +54,6 @@ Here are the technologies I have been working with:
 </div>
 
 </div>
-
-
 
 ---
 
