@@ -35,13 +35,27 @@ Here are the technologies I have been working with:
 
 ## 🛠 Featured Projects
 
-| [Project Name 1](https://github.com/thaithanhnhat/selenium_webDriver) | [Project Name 2](https://github.com/thaithanhnhat/Telethon_to_Tdata) |
-| -------------------------------------------- | --------------------------------------------- |
-| ![Project Screenshot](https://via.placeholder.com/400x200.png?text=Project+1) | ![Project Screenshot](https://via.placeholder.com/400x200.png?text=Project+2) |
-| **Tech Stack:** Java, Spring Boot, MySQL, Docker | **Tech Stack:** Python, Flask, MongoDB |
-| A brief description of Project 1. | A brief description of Project 2. |
-| [![View Project](https://img.shields.io/badge/View-Project-007bff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaithanhnhat/selenium_webDriver) | [![View Project](https://img.shields.io/badge/View-Project-007bff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaithanhnhat/Telethon_to_Tdata) |
+<div style="display: flex; justify-content: space-between;">
 
+<div style="margin-right: 20px;">
+    <a href="https://github.com/thaithanhnhat/selenium_webDriver">
+        <img src="https://via.placeholder.com/400x200.png?text=Project+1" alt="Project 1">
+    </a>
+    <strong>Tech Stack:</strong> Java, Spring Boot, MySQL, Docker  
+    A brief description of Project 1.  
+    [![View Project](https://img.shields.io/badge/View-Project-007bff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaithanhnhat/selenium_webDriver)
+</div>
+
+<div>
+    <a href="https://github.com/thaithanhnhat/Telethon_to_Tdata">
+        <img src="https://via.placeholder.com/400x200.png?text=Project+2" alt="Project 2">
+    </a>
+    <strong>Tech Stack:</strong> Python, Flask, MongoDB  
+    A brief description of Project 2.  
+    [![View Project](https://img.shields.io/badge/View-Project-007bff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaithanhnhat/Telethon_to_Tdata)
+</div>
+
+</div>
 
 
 
