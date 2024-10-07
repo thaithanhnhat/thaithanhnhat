@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Thanh Nhật!
 
-Welcome to my GitHub profile! I'm a passionate developer with interests in [Your Field] and a constant learner. Below you'll find more about me, my skills, and the projects I've worked on.
+Welcome to my GitHub profile! I'm a passionate developer with interests in software development and a constant learner. Below you'll find more about me, my skills, and the projects I've worked on.
 
 ## 💻 Tech Stack
 Here's a quick overview of the technologies I've been working with recently:
@@ -15,27 +15,35 @@ Here's a quick overview of the technologies I've been working with recently:
 
 ## 🛠 Featured Projects
 
-### 1. [Project Name 1](https://github.com/thaithanhnhat/selenium_webDriver)
-A brief description of your project. You can also include a screenshot.
+### 1. [Selenium WebDriver Automation](https://github.com/thaithanhnhat/selenium_webDriver)
+This project automates browser actions using Selenium WebDriver.
 
 ![Project Screenshot](https://via.placeholder.com/800x400.png?text=Project+Screenshot)
 
 **Tech Stack:** Java, Spring Boot, MySQL, Docker
 
+<a href="https://github.com/thaithanhnhat/selenium_webDriver" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/xem-Click%20Here-brightgreen?style=for-the-badge" alt="xem">
+</a>
+
 ---
 
-### 2. [Project Name 2]([https://github.com/your-username/project-2](https://github.com/thaithanhnhat/Telethon_to_Tdata))
-Another project description.
+### 2. [Telethon to Tdata](https://github.com/thaithanhnhat/Telethon_to_Tdata)
+A project utilizing Telethon to manage multiple Telegram accounts efficiently.
 
 ![Project Screenshot](https://via.placeholder.com/800x400.png?text=Project+Screenshot)
 
 **Tech Stack:** Python, Flask, MongoDB
 
+<a href="https://github.com/thaithanhnhat/Telethon_to_Tdata" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/xem-Click%20Here-brightgreen?style=for-the-badge" alt="xem">
+</a>
+
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaithanhnhat&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaithanhnhat&layout=compact&theme=radical)
 
 ---
 
