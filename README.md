@@ -2,17 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in [Your Field] and a constant learner. Below you'll find more about me, my skills, and the projects I've worked on.
 
----
-
-## 🌟 About Me
-- 🔭 I’m currently working on **[Your Project]**
-- 🌱 I’m currently learning **[Your Learning Focus]**
-- 💬 Ask me about **[Topics you are proficient in]**
-- 📫 Reach me at: **[Your Email Address]**
-- 🌍 Website: **[Your Website Link]**
-
----
-
 ## 💻 Tech Stack
 Here's a quick overview of the technologies I've been working with recently:
 
@@ -26,7 +15,7 @@ Here's a quick overview of the technologies I've been working with recently:
 
 ## 🛠 Featured Projects
 
-### 1. [Project Name 1](https://github.com/your-username/project-1)
+### 1. [Project Name 1](https://github.com/thaithanhnhat/selenium_webDriver)
 A brief description of your project. You can also include a screenshot.
 
 ![Project Screenshot](https://via.placeholder.com/800x400.png?text=Project+Screenshot)
@@ -35,7 +24,7 @@ A brief description of your project. You can also include a screenshot.
 
 ---
 
-### 2. [Project Name 2](https://github.com/your-username/project-2)
+### 2. [Project Name 2]([https://github.com/your-username/project-2](https://github.com/thaithanhnhat/Telethon_to_Tdata))
 Another project description.
 
 ![Project Screenshot](https://via.placeholder.com/800x400.png?text=Project+Screenshot)
