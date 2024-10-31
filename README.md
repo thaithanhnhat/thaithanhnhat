@@ -1,3 +1,6 @@
+--Demo,không phải thật--
+
+
 # 👋 Hello, I'm Thanh Nhật!
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in software development and a constant learner. Below you'll find more about me, my skills, and the projects I've worked on.
@@ -22,23 +25,14 @@ Here are the technologies I have been working with:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+
+
 
 ---
 
-## 🛠 Featured Projects
 
-| [Project Name 1](https://github.com/thaithanhnhat/selenium_webDriver) | [Project Name 2](https://github.com/thaithanhnhat/Telethon_to_Tdata) |
-| -------------------------------------------- | --------------------------------------------- |
-| ![Project Screenshot](https://via.placeholder.com/400x200.png?text=Project+1) | ![Project Screenshot](https://via.placeholder.com/400x200.png?text=Project+2) |
-| **Tech Stack:** Java, Spring Boot, MySQL, Docker | **Tech Stack:** Python, Flask, MongoDB |
-| A brief description of Project 1. | A brief description of Project 2. |
-| [![View Project](https://img.shields.io/badge/View-Project-007bff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaithanhnhat/selenium_webDriver) | [![View Project](https://img.shields.io/badge/View-Project-007bff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaithanhnhat/Telethon_to_Tdata) |
 ---
 
 ## 📊 GitHub Stats
