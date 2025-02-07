@@ -1,20 +1,6 @@
---Demo,không phải thật--
-
-
 # 👋 Hello, I'm Thanh Nhật!
 
-Welcome to my GitHub profile! I'm a passionate developer with interests in software development and a constant learner. Below you'll find more about me, my skills, and the projects I've worked on.
 
----
-
-## 🧑‍💻 About Me
-I'm a dedicated software developer with a keen interest in learning and applying new technologies...
-
----
-
-## 💻 Tech Stack
-
-Here are the technologies I have been working with:
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -29,19 +15,3 @@ Here are the technologies I have been working with:
 
 
 
-
----
-
-
----
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaithanhnhat&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaithanhnhat&layout=compact&theme=radical)
-
----
-
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge)](https://your-website.com)
